@@ -1,0 +1,15 @@
+C:\Users\49176\Desktop\manu\bin\Debug\net6.0\manu.exe
+C:\Users\49176\Desktop\manu\bin\Debug\net6.0\manu.deps.json
+C:\Users\49176\Desktop\manu\bin\Debug\net6.0\manu.runtimeconfig.json
+C:\Users\49176\Desktop\manu\bin\Debug\net6.0\manu.dll
+C:\Users\49176\Desktop\manu\bin\Debug\net6.0\manu.pdb
+C:\Users\49176\Desktop\manu\obj\Debug\net6.0\manu.csproj.AssemblyReference.cache
+C:\Users\49176\Desktop\manu\obj\Debug\net6.0\manu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49176\Desktop\manu\obj\Debug\net6.0\manu.AssemblyInfoInputs.cache
+C:\Users\49176\Desktop\manu\obj\Debug\net6.0\manu.AssemblyInfo.cs
+C:\Users\49176\Desktop\manu\obj\Debug\net6.0\manu.csproj.CoreCompileInputs.cache
+C:\Users\49176\Desktop\manu\obj\Debug\net6.0\manu.dll
+C:\Users\49176\Desktop\manu\obj\Debug\net6.0\refint\manu.dll
+C:\Users\49176\Desktop\manu\obj\Debug\net6.0\manu.pdb
+C:\Users\49176\Desktop\manu\obj\Debug\net6.0\manu.genruntimeconfig.cache
+C:\Users\49176\Desktop\manu\obj\Debug\net6.0\ref\manu.dll

@@ -1,0 +1,15 @@
+C:\Users\49176\Desktop\Assigments Basic 13\obj\Debug\net6.0\Assigments Basic 13.csproj.AssemblyReference.cache
+C:\Users\49176\Desktop\Assigments Basic 13\obj\Debug\net6.0\Assigments Basic 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49176\Desktop\Assigments Basic 13\obj\Debug\net6.0\Assigments Basic 13.AssemblyInfoInputs.cache
+C:\Users\49176\Desktop\Assigments Basic 13\obj\Debug\net6.0\Assigments Basic 13.AssemblyInfo.cs
+C:\Users\49176\Desktop\Assigments Basic 13\obj\Debug\net6.0\Assigments Basic 13.csproj.CoreCompileInputs.cache
+C:\Users\49176\Desktop\Assigments Basic 13\bin\Debug\net6.0\Assigments Basic 13.exe
+C:\Users\49176\Desktop\Assigments Basic 13\bin\Debug\net6.0\Assigments Basic 13.deps.json
+C:\Users\49176\Desktop\Assigments Basic 13\bin\Debug\net6.0\Assigments Basic 13.runtimeconfig.json
+C:\Users\49176\Desktop\Assigments Basic 13\bin\Debug\net6.0\Assigments Basic 13.dll
+C:\Users\49176\Desktop\Assigments Basic 13\bin\Debug\net6.0\Assigments Basic 13.pdb
+C:\Users\49176\Desktop\Assigments Basic 13\obj\Debug\net6.0\Assigments Basic 13.dll
+C:\Users\49176\Desktop\Assigments Basic 13\obj\Debug\net6.0\refint\Assigments Basic 13.dll
+C:\Users\49176\Desktop\Assigments Basic 13\obj\Debug\net6.0\Assigments Basic 13.pdb
+C:\Users\49176\Desktop\Assigments Basic 13\obj\Debug\net6.0\Assigments Basic 13.genruntimeconfig.cache
+C:\Users\49176\Desktop\Assigments Basic 13\obj\Debug\net6.0\ref\Assigments Basic 13.dll

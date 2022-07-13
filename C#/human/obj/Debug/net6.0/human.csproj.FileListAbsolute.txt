@@ -1,0 +1,15 @@
+C:\Users\49176\Desktop\Cod Dojo\C#\human\bin\Debug\net6.0\human.exe
+C:\Users\49176\Desktop\Cod Dojo\C#\human\bin\Debug\net6.0\human.deps.json
+C:\Users\49176\Desktop\Cod Dojo\C#\human\bin\Debug\net6.0\human.runtimeconfig.json
+C:\Users\49176\Desktop\Cod Dojo\C#\human\bin\Debug\net6.0\human.dll
+C:\Users\49176\Desktop\Cod Dojo\C#\human\bin\Debug\net6.0\human.pdb
+C:\Users\49176\Desktop\Cod Dojo\C#\human\obj\Debug\net6.0\human.csproj.AssemblyReference.cache
+C:\Users\49176\Desktop\Cod Dojo\C#\human\obj\Debug\net6.0\human.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49176\Desktop\Cod Dojo\C#\human\obj\Debug\net6.0\human.AssemblyInfoInputs.cache
+C:\Users\49176\Desktop\Cod Dojo\C#\human\obj\Debug\net6.0\human.AssemblyInfo.cs
+C:\Users\49176\Desktop\Cod Dojo\C#\human\obj\Debug\net6.0\human.csproj.CoreCompileInputs.cache
+C:\Users\49176\Desktop\Cod Dojo\C#\human\obj\Debug\net6.0\human.dll
+C:\Users\49176\Desktop\Cod Dojo\C#\human\obj\Debug\net6.0\refint\human.dll
+C:\Users\49176\Desktop\Cod Dojo\C#\human\obj\Debug\net6.0\human.pdb
+C:\Users\49176\Desktop\Cod Dojo\C#\human\obj\Debug\net6.0\human.genruntimeconfig.cache
+C:\Users\49176\Desktop\Cod Dojo\C#\human\obj\Debug\net6.0\ref\human.dll
