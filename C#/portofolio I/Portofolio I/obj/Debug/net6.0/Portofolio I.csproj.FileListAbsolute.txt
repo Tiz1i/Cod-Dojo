@@ -1,0 +1,21 @@
+C:\Users\49176\Desktop\Cod Dojo\C#\portofolio I\Portofolio I\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\49176\Desktop\Cod Dojo\C#\portofolio I\Portofolio I\bin\Debug\net6.0\appsettings.json
+C:\Users\49176\Desktop\Cod Dojo\C#\portofolio I\Portofolio I\bin\Debug\net6.0\Portofolio I.exe
+C:\Users\49176\Desktop\Cod Dojo\C#\portofolio I\Portofolio I\bin\Debug\net6.0\Portofolio I.deps.json
+C:\Users\49176\Desktop\Cod Dojo\C#\portofolio I\Portofolio I\bin\Debug\net6.0\Portofolio I.runtimeconfig.json
+C:\Users\49176\Desktop\Cod Dojo\C#\portofolio I\Portofolio I\bin\Debug\net6.0\Portofolio I.dll
+C:\Users\49176\Desktop\Cod Dojo\C#\portofolio I\Portofolio I\bin\Debug\net6.0\Portofolio I.pdb
+C:\Users\49176\Desktop\Cod Dojo\C#\portofolio I\Portofolio I\obj\Debug\net6.0\Portofolio I.csproj.AssemblyReference.cache
+C:\Users\49176\Desktop\Cod Dojo\C#\portofolio I\Portofolio I\obj\Debug\net6.0\Portofolio I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49176\Desktop\Cod Dojo\C#\portofolio I\Portofolio I\obj\Debug\net6.0\Portofolio I.AssemblyInfoInputs.cache
+C:\Users\49176\Desktop\Cod Dojo\C#\portofolio I\Portofolio I\obj\Debug\net6.0\Portofolio I.AssemblyInfo.cs
+C:\Users\49176\Desktop\Cod Dojo\C#\portofolio I\Portofolio I\obj\Debug\net6.0\Portofolio I.csproj.CoreCompileInputs.cache
+C:\Users\49176\Desktop\Cod Dojo\C#\portofolio I\Portofolio I\obj\Debug\net6.0\Portofolio I.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\49176\Desktop\Cod Dojo\C#\portofolio I\Portofolio I\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\49176\Desktop\Cod Dojo\C#\portofolio I\Portofolio I\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\49176\Desktop\Cod Dojo\C#\portofolio I\Portofolio I\obj\Debug\net6.0\scopedcss\bundle\Portofolio I.styles.css
+C:\Users\49176\Desktop\Cod Dojo\C#\portofolio I\Portofolio I\obj\Debug\net6.0\Portofolio I.dll
+C:\Users\49176\Desktop\Cod Dojo\C#\portofolio I\Portofolio I\obj\Debug\net6.0\refint\Portofolio I.dll
+C:\Users\49176\Desktop\Cod Dojo\C#\portofolio I\Portofolio I\obj\Debug\net6.0\Portofolio I.pdb
+C:\Users\49176\Desktop\Cod Dojo\C#\portofolio I\Portofolio I\obj\Debug\net6.0\Portofolio I.genruntimeconfig.cache
+C:\Users\49176\Desktop\Cod Dojo\C#\portofolio I\Portofolio I\obj\Debug\net6.0\ref\Portofolio I.dll

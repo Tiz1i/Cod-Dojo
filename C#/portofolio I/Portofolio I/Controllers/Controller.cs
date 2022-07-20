@@ -15,6 +15,11 @@ public class HelloController : Controller
     {
         return "These are my projects!";
     }
+     [HttpGet("projects/3")]
+    public string Projects2()
+    {
+        return "These are my projects eshte 3!";
+    }
 
     [HttpGet("contact")]
     public string Contact()

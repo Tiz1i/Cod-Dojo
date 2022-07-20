@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\49176\\Desktop\\Cod Dojo\\C#\\portofolio I\\ProjectName\\ProjectName.csproj",
-      "projectName": "ProjectName",
-      "projectPath": "C:\\Users\\49176\\Desktop\\Cod Dojo\\C#\\portofolio I\\ProjectName\\ProjectName.csproj",
+      "projectUniqueName": "C:\\Users\\49176\\Desktop\\Cod Dojo\\C#\\portofolio I\\Portofolio I\\Portofolio I.csproj",
+      "projectName": "Portofolio I",
+      "projectPath": "C:\\Users\\49176\\Desktop\\Cod Dojo\\C#\\portofolio I\\Portofolio I\\Portofolio I.csproj",
       "packagesPath": "C:\\Users\\49176\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\49176\\Desktop\\Cod Dojo\\C#\\portofolio I\\ProjectName\\obj\\",
+      "outputPath": "C:\\Users\\49176\\Desktop\\Cod Dojo\\C#\\portofolio I\\Portofolio I\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\49176\\AppData\\Roaming\\NuGet\\NuGet.Config"

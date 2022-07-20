@@ -21,4 +21,14 @@ app.MapGet("/", () => "Hello World!");
 
 app.Run();
 
+///////////////////////////
 
+var builder = WebApplication.CreateBuilder(args);
+var app = builder.Build();
+
+
+app.MapGet("/test2", (int num)){
+    if(if num%2==0){"this is Even number"}
+
+    }
+}
