@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <title>Hello!</title>
+</head>
+
+<body>
+    <h1>There are some delicious food!</h1>
+    @{
+        List<string> List1 = new List<string>();
+        List1.Add("apple");
+        List1.Add("peach");
+        List1.Add("banana");
+        List1.Add("strawberry");
+        List1.Add("kiwi");
+
+        @* therras nje nga nje item e listes *@
+        foreach (var item in List1)
+        {
+            if (item[0] == 's')
+            {
+                <p style="color:red">@item</p>
+            }
+            else
+            {
+                <p>@item</p>
+            }
+        }
+    }
+
+
+    |
+</body>
+
+</html>
