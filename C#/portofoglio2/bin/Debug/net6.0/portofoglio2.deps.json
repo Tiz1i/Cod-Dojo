@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "portofoglio2/1.0.0": {
+        "runtime": {
+          "portofoglio2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "portofoglio2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Ror09s306cvFnwjRTeKynKCh6QJSJiDx1mRflDRrn5Q=",
+  "Source": "portofoglio2",
+  "BasePath": "_content/portofoglio2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "portofoglio2\\wwwroot",
+      "Source": "portofoglio2",
+      "ContentRoot": "C:\\Users\\49176\\Desktop\\Cod Dojo\\C#\\portofoglio2\\wwwroot\\",
+      "BasePath": "_content/portofoglio2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\49176\\Desktop\\Cod Dojo\\C#\\portofoglio2\\wwwroot\\css\\style.css",
+      "SourceId": "portofoglio2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\49176\\Desktop\\Cod Dojo\\C#\\portofoglio2\\wwwroot\\",
+      "BasePath": "_content/portofoglio2",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}
