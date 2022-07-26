@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\49176\\Desktop\\Cod Dojo\\C#\\portofolio I\\Portofolio I\\Portofolio I.csproj",
+  "FilePath": "c:\\Users\\49176\\Desktop\\Cod Dojo\\C#\\portofolio I\\portofolio I.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "6.0",
@@ -16295,7 +16295,7 @@
     ],
     "CSharpLanguageVersion": 1000
   },
-  "RootNamespace": "Portofolio_I",
+  "RootNamespace": "portofolio_I",
   "Documents": [],
   "SerializationFormat": "0.2"
 }
