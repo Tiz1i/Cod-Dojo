@@ -1,0 +1,17 @@
+@using dojoSurveyValidation.Models
+@model User
+<form asp-action="Create" asp-controller="Home" method="post">
+    <span asp-validation-for="YourName"></span>
+    <label asp-for="YourName"></label>
+    <input asp-for="YourName">  
+    <span asp-validation-for="DojoLocation"></span>
+    <label asp-for="DojoLocation"></label>
+    <input asp-for="DojoLocation">
+    <span asp-validation-for="FavoriteLanguage"></span>
+    <label asp-for="FavoriteLanguage"></label>
+    <input asp-for="FavoriteLanguage">
+    <span asp-validation-for="Comment"></span>
+    <label asp-for="Comment"></label>
+    <input asp-for="Comment">
+    <input value="Add User" type="submit">    
+</form>
