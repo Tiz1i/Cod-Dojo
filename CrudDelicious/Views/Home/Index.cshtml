@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model List<Dish>
+
+<div class="text-center">
+  <h1>Welcome to CRUDelicious</h1>
+</div>
+
+<div class="row">
+    <div class="col-sm-6 border-bottom border-dark mb-3" >
+        <p>Check out some Dishes</p>
+    </div>
+
+    <div class="col-sm-3 offset-3 mt-3">
+        <a href="/Add">Add a Dish!</a>
+    </div>
+
+</div>
+<div class="row">
+    <div class="col-sm-8">
+        @foreach (var item in ViewBag.Mydishes) 
+        {
+            <p><a href="show/@item.DishId">@item.NameOfDish</a>is cooked by @item.ChefsName </p>
+
+           
+        }
+        
+    </div>
+ </div>

@@ -1,0 +1,26 @@
+@model Dish
+<a href="/">Home</a> 
+<div class="row">
+    <div class="col-sm-6 text-center border-bottom border-dark mb-3" >
+        <h2>Banh Mi Taco</h2>
+        <h5>Sally Stephnes</h5>
+    </div>
+
+<h6>A new tist on a classic favorite. Try with some french fries! </h6>
+
+<h3>Calories: @Model.Calories</h3>
+<h3>Tastiness: @Model.Tastiness</h3>
+
+
+<div class="row">
+
+    <div class="col-sm-4">
+        <a href="/Delete/@Model.DishId" class="btn btn-primary text-center">Delete</a>  
+        <a href="/Edit/@Model.DishId" class="btn btn-primary text-center">Edit</a>
+    </div>
+    <div class="col-sm-4">
+    </div>
+
+
+</div>
+
