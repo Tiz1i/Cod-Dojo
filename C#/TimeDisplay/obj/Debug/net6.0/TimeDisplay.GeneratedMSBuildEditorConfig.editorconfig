@@ -8,13 +8,13 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TimeDisplay
 build_property.RootNamespace = TimeDisplay
-build_property.ProjectDir = C:\Users\49176\Desktop\Cod Dojo\C#\TimeDisplay\
+build_property.ProjectDir = c:\Users\49176\Desktop\Cod Dojo\C#\TimeDisplay\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\49176\Desktop\Cod Dojo\C#\TimeDisplay
+build_property.MSBuildProjectDirectory = c:\Users\49176\Desktop\Cod Dojo\C#\TimeDisplay
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/49176/Desktop/Cod Dojo/C\#/TimeDisplay/Views/Home/Index.cshtml]
+[c:/Users/49176/Desktop/Cod Dojo/C\#/TimeDisplay/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

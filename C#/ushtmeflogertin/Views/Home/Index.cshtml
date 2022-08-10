@@ -1,0 +1,11 @@
+@using ushtmeflogertin.Models
+@model string[]
+
+<div>
+  
+    <input type="submit" class="btn btn-success" value="Approve" name="ApproveReject" formaction='@Url.Action("SurveiMia")' formmethod="post"
+/>
+    <input type="submit" class="btn btn-danger" value="Reject" name="ApproveReject" formaction='@Url.Action("Privacy")' formmethod="post"
+/>
+<p> <a href="/SurveiMia"> Kliko ketu per te shkuar tek survey</a></p>
+</div>

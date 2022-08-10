@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Hi MyWebPageMia";
+}
+<h1>@ViewData["Title"]</h1>
+
+<div class=text-center> 
+   
+     @{
+        string[] person = new string[]
+            {
+            "Mia",
+            "Alberto",
+            "klodi",
+            "eneso",
+            "angela",
+            };
+        foreach (string Survey in person)
+        {
+           if(Survey == "Mia"){
+            <a href="Mia">@Survey</a>
+           }
+          else{
+            <p>@Survey</p>
+          }
+            
+        }
+
+        }
+       
+   
+
+          
+
+</div>
+
+
