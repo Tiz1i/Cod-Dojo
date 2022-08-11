@@ -1,0 +1,30 @@
+@using ChefsNDishes.Models
+@model Chef
+
+<div class="row">
+    <h1 class="text-center col-sm-10 mt-2"><a href="/">Chefs</a> | <a class="text-decoration-none" href="/Dishes">Dishes</a></h1>
+    <h3 class="col-sm-2 mt-3"><a href="/ChefAdd">Add a Chef</a></h3>
+</div>
+<div class="row mt-5">
+
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th scope="col">Name</th>
+        <th scope="col">Age</th>
+        <th scope="col"># Of Dishes</th>
+      </tr>
+    </thead>
+    <tbody>
+      @* ketu kam nje for loop ku shfaq cdo te dhene referuar tabeles siper. i marr te dhenat nga viewBag.  *@
+      @foreach (var chef in ViewBag.Chefs)
+      {
+        <tr>
+          <td>@chef.Name @chef.LastName</td>
+          <td>@chef.DateofBirth</td>
+          <td>@chef.Dishes.Count</td>
+        </tr>
+      }
+    </tbody>
+  </table>
+</div>

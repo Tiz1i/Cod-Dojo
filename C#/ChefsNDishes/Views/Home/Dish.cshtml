@@ -1,0 +1,33 @@
+<div class="row">
+    <h1 class="text-center col-sm-10 mt-2"><a class="text-decoration-none" href="/">Chefs</a> | <a href="/Dishes">Dishes</a></h1>
+    <h3 class="col-sm-2 mt-3"><a href="/AddDish">Add a Dish</a></h3>
+</div>
+
+<div class="col-sm-4">
+    <h3 class="border-bottom border-dark pb-3 mt-5">Yum , take a look at our tasty dishes!</h3>
+</div> 
+
+<div class="row">
+    <div class = "col-sm-7">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <td>Name</td>
+                    <td>Chef</td>
+                    <td>Tastiness</td>
+                    <td>Calories</td>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var item in ViewBag.Dish)
+                {
+                    <tr>
+                        <td>@item.Name</td>
+                        <td>@item.creator.Name @item.creator.LastName</td>
+                        <td>@item.Calories</td>
+                        <td>@item.Tastiness</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
