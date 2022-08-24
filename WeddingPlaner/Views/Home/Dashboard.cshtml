@@ -1,0 +1,90 @@
+<div class="row">
+    <div class="col-sm-10">
+        <h1>Welcome to wedding Planer Dashboard</h1>
+    </div>
+    <div class="col-sm-2">
+        <a asp-action="LogOut" asp-controller="Home">Log out</a>
+    </div>
+    <div class="row">
+        
+
+<table class="table table-striped table-bordered  ">
+       
+        <thead>
+            <tr>
+                <th   scope="col ">Wedding</th>
+                <th   scope="col">Date</th>
+                 <th   scope="col ">Guest</th>
+                 <th   scope="col ">Action</th>
+            </tr>
+        </thead>
+        <tbody>
+           
+            @foreach (var item in ViewBag.allwed)
+            {
+                
+               <tr>
+                <td scope="row"><a asp-action="ShowWedding" asp-controller="Home" asp-route-id="@item.WeddingId">@item.WedderOne and @item.WedderTwo </a>  </td>
+                <td scope="row">@item.Date </td>
+                <td scope="row">@item.Invitations.Count</td>
+               
+                <td>
+                  
+                    @if(@Context.Session.GetInt32("UserId")==item.UserId)
+                    {
+                    <a asp-action="Deletewedding" asp-controller="Home" asp-route-id="@item.WeddingId">Delete</a>
+                    }
+                    else
+                    {bool ekstizton = false;
+                        @foreach (var item2 in ViewBag.allinvite)
+                        {
+                            @if( item2.WeddingId == item.WeddingId && item2.UserId== @Context.Session.GetInt32("UserId")){
+                                ekstizton= true;
+                            }
+                            
+                        }
+                       
+                        @if(!ekstizton)
+                            {
+                                <a asp-action="Attend"  asp-controller="Home" asp-route-id="@item.WeddingId">Attend</a>
+                            } 
+                            else{
+                                <a asp-action="NotAttend" asp-controller="Home" asp-route-id="@item.WeddingId"> not Attend</a>
+                           
+                            }
+                        
+                        
+                            
+                    }
+                          
+                    
+                        
+                        
+                    
+                        
+                        
+                    
+                </td>
+                
+                
+
+                
+
+                
+            </tr>
+            }
+            
+           
+        </tbody>
+            
+        
+    </table>
+
+
+    </div>
+    <div class="row">
+        <div class="offset-sm-10 col-sm-2">
+            <a asp-action="AddWedding" asp-controller="Home">Add Wedding</a>
+        </div>
+    </div>
+</div>

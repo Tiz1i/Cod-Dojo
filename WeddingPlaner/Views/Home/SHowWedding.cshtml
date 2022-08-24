@@ -1,0 +1,30 @@
+<div class="row">
+    <div class="col-sm-10">
+        <h1>
+            @ViewBag.mywed.WedderOne and @ViewBag.mywed.WedderTwo Wedding's
+        </h1>
+        
+
+    </div>
+    <div class="col-sm-2">
+        <a asp-action="Dashboard" asp-controller="Home">Dashboard</a>
+        <a asp-action="LogOut" asp-controller="Home">Log out</a>
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm-6">
+        <h3 class="mb-5 mt-5"> Date @ViewBag.mywed.Date</h3>
+        <h3 class="mb-5"> Guests</h3>
+        
+        @foreach (var item in ViewBag.guests)
+        {
+            <h2> 
+                @item.Person.FirstName
+            </h2>
+        }
+        
+        
+        
+        <h3></h3>
+    </div>
+</div>
